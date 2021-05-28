@@ -61,7 +61,7 @@
     "@umijs/test": "^3.2.19",
     "antd": "^4.7.0",
     "antd-img-crop": "^3.10.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "braft-editor": "^2.3.9",
     "chatbot-antd": "^0.6.0",
     "codemirror": "^5.57.0",
